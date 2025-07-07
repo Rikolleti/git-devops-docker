@@ -36,3 +36,7 @@ confident_agnes
 2. ![Docker Compose Both Files](images/task5_docker_compose_both_files.png)
 3. ![Docker Compose Local Registry](images/task5_docker_compose_local_registry.png)
 4. ![Docker Portainer](images/task5_portainer.png)
+5. ![Docker Portainer Stack](images/task5_portainer_stack_nginx.png)
+6. ![Docker Portainer Nginx Inspect](images/task5_nginx_inspect.png)
+7. Остался контейнер-сирота, который ранее был запущен в compose.yaml, но теперь он отсутствует:
+![Docker Compose Orphan and Compose down](images/task5_doocker_orphan.png)
