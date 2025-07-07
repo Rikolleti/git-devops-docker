@@ -31,3 +31,8 @@ confident_agnes
 5. ![Docker Debian list files](images/task4_list_files_debian.png)
 
 ## Задача 5
+1. Был использован файл compose.yaml, так как он является более предпочтительным, так как файл docker-compose.yaml используется для обратной совместимости с более ранними версиями.
+![Docker Compose Up](images/task5_docker_compose_up.png)
+2. ![Docker Compose Both Files](images/task5_docker_compose_both_files.png)
+3. ![Docker Compose Local Registry](images/task5_docker_compose_local_registry.png)
+4. ![Docker Portainer](images/task5_portainer.png)
